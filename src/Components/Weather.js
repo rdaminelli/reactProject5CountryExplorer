@@ -16,7 +16,7 @@ const Weather = () => {
             params: { q: `${latitude}, ${longitude}` },
             headers: {
                 "X-RapidAPI-Key":
-                    "79ccfaed23msh682b7ea8536df9ap1dae16jsn6b9c2dd76294",
+                    "096a391b4bmsh49d7e98e8fb99c8p1ebf57jsn8ea54e8675bf",
                 "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com",
             },
         };
